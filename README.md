@@ -1,2 +1,2 @@
 # YouTube-CLI
-A Basic YouTube CLI Implementation In Python
+YouTube CLI Implementation In Python
